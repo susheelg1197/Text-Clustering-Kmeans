@@ -1,7 +1,7 @@
 # Text-Clustering-Kmeans
-Download the fine foods dataset from:
-http://snap.stanford.edu/data/web-FineFoods.html
-Performed the following processing the data set:
+## Download the fine foods dataset from:
+[Web Fine Foods](http://snap.stanford.edu/data/web-FineFoods.html)
+## Performed the following processing the data set:
 • Identified all the unique words that appear in the “review/text” field of the reviews. Denote
 the set of such words as L.
 • Removed from L all stopwords in “Long Stopword List” from http://www.ranks.nl/
